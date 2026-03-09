@@ -8,6 +8,7 @@ body {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+  background-color: #FFFFFF;
 }
 
 h1,
@@ -23,6 +24,7 @@ li,
 blockquote {
   margin: 0;
   padding: 0;
+  
 }
 
 a {
@@ -35,4 +37,9 @@ img {
 
 button {
   font: inherit;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: transparent;
 }
+
